@@ -1,2 +1,5 @@
-console.log(1);
-return "falta push";
+console.log('Mi primer repo git);
+function sumar(){
+return  a+b;
+}
+sumar();
