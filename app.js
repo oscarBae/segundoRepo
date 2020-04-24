@@ -1,4 +1,2 @@
-function sumar(){
-return  a+b;
-}
-sumar();
+console.log("mi primer commit");
+
